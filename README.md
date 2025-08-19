@@ -30,6 +30,7 @@ pnpm run dev
 ```
 
 The app will be available at [http://localhost:3000](http://localhost:3000).
+The Events page will be available at [http://localhost:3000/events](http://localhost:3000/events).
 
 ### Build for Production
 
