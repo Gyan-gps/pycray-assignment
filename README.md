@@ -34,14 +34,12 @@ The app will be available at [http://localhost:3000](http://localhost:3000).
 ### Build for Production
 
 ```sh
-cd apps/web
 pnpm build
 ```
 
 ### Linting
 
 ```sh
-cd apps/web
 pnpm lint
 ```
 
@@ -49,6 +47,7 @@ pnpm lint
 - [Next.js](https://nextjs.org/)
 - [React](https://react.dev/)
 - [Zustand](https://zustand-demo.pmnd.rs/)
+- [React Hook Form](https://react-hook-form.com/)
 - [Turborepo](https://turbo.build/)
 - [pnpm](https://pnpm.io/)
 
